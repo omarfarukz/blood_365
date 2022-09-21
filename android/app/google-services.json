@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "896378913982",
+    "firebase_url": "https://blood365-216e0-default-rtdb.firebaseio.com",
+    "project_id": "blood365-216e0",
+    "storage_bucket": "blood365-216e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896378913982:android:78a725628b4266b6a00aef",
+        "android_client_info": {
+          "package_name": "com.example.blood365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896378913982-1sqjl6fmc4nhl12pncr9a0v94mit18qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTFT7EkoABsqTGJfxcQVimG8XIHUIysw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896378913982-1sqjl6fmc4nhl12pncr9a0v94mit18qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896378913982:android:b26be3056c6b4231a00aef",
+        "android_client_info": {
+          "package_name": "com.squadhead.blood365.blood_365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896378913982-2sqo8h9aonceu6mt3gt25340eqe4losc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.squadhead.blood365.blood_365",
+            "certificate_hash": "3c8e8417a2be16812643bee0f8fa7737d566c7be"
+          }
+        },
+        {
+          "client_id": "896378913982-1sqjl6fmc4nhl12pncr9a0v94mit18qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTFT7EkoABsqTGJfxcQVimG8XIHUIysw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896378913982-1sqjl6fmc4nhl12pncr9a0v94mit18qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
